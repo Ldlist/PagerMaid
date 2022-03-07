@@ -52,6 +52,11 @@
     "cg": [273, 280],
     "xhs": [150, 172],
     "cy2": [5, 237],  
+    "diaoy": [56, 397],
+    "shuy": [107, 21],
+    "shuy2": [107, 21],
+    "baib": [7, 269],
+    "daif": [225, 32],
     "ada1": [283, 146]
   },
   "notifies": {
@@ -101,6 +106,11 @@
     "cg": "吃瓜瓜！～",
     "xhs": "看的什么小黄书？～",
     "cy2": "大哥抽烟！～",
+    "diaoy": "姜太公钓鱼，愿者上钩！～",
+    "shuy": "想你的液！～",
+    "shuy2": "想你的液！～",
+    "baib": "拜拜大佬！～",
+    "daif": "起飞！！大佬带飞！～",
     "ada": "给爷死"
   },
   "extensionConfig": {
@@ -149,6 +159,15 @@
     "xhs": {
       "isSwap": true
     },
+    "diaoy": {
+      "isSwap": true
+    },
+    "shuy": {
+      "isSwap": true
+    },
+    "shuy2": {
+      "isSwap": true
+    },  
     "tui": {
       "isSwap": true
     }
@@ -253,7 +272,19 @@
 	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskwenh.png",
 	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskxhs.png",
 	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatcy2.png",
-	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskcy2.png",
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskcy2.png", 
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatbaib.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatcy2.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatdaif.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatdiaoy.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatshuy.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatshuy2.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskbaib.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskcy2.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskdaif.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskdiaoy.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskshuy.png"
+	"https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskshuy2.png"
     "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskri.png"
   ]
 }
